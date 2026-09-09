@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Infinite ammo"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"sekiro.exe"+03D5AAC0</Address>
+      <Offsets>
+        <Offset>C78</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>112</Key>
+          </Keys>
+          <Description>Infinite ammo</Description>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"HP (God mode)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"sekiro.exe"+03AFB218</Address>
+      <Offsets>
+        <Offset>FC0</Offset>
+        <Offset>90</Offset>
+        <Offset>28</Offset>
+        <Offset>180</Offset>
+        <Offset>88</Offset>
+        <Offset>BC8</Offset>
+        <Offset>28</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>113</Key>
+          </Keys>
+          <Description>God mode</Description>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
