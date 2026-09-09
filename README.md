@@ -7,7 +7,7 @@ If you wanna find HP offset. Do memory scanning starting from "unknown initial v
 Also if you want to debug the game, use VEH Debugger instead of the default one (Windows debugger). I am not 100% sure why but my assumption is the game has antidebugging mechanism. Just use VEH debugger which is available in Cheat Engine settings.
 
 **Precondition**
-- don't use prayer beads to upgrade or else the cheat wouldn't work (yeah me is still a noob. My RE isn't that good. I'm practicing.)
+- don't use prayer beads to upgrade or else the cheat won't work (yeah me is still a noob. My RE isn't that good. I'm practicing.)
 
 <img width="783" height="707" alt="image" src="https://github.com/user-attachments/assets/b2efbb53-c411-4ae9-81b9-45cf91eb314c" />
 
