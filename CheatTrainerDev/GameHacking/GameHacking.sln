@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameHacking", "GameHacking\GameHacking.vcxproj", "{F6303127-F93B-46D0-9775-2A870945261B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6303127-F93B-46D0-9775-2A870945261B}.Debug|x64.ActiveCfg = Debug|x64
+		{F6303127-F93B-46D0-9775-2A870945261B}.Debug|x64.Build.0 = Debug|x64
+		{F6303127-F93B-46D0-9775-2A870945261B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6303127-F93B-46D0-9775-2A870945261B}.Debug|x86.Build.0 = Debug|Win32
+		{F6303127-F93B-46D0-9775-2A870945261B}.Release|x64.ActiveCfg = Release|x64
+		{F6303127-F93B-46D0-9775-2A870945261B}.Release|x64.Build.0 = Release|x64
+		{F6303127-F93B-46D0-9775-2A870945261B}.Release|x86.ActiveCfg = Release|Win32
+		{F6303127-F93B-46D0-9775-2A870945261B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C35A684-45DF-4B02-86D0-23F61EB35527}
+	EndGlobalSection
+EndGlobal
