@@ -6,7 +6,7 @@ If you wanna find HP offset. Do memory scanning starting from "unknown initial v
 
 Also if you want to debug the game, use VEH Debugger instead of the default one (Windows debugger). I am not 100% sure why but my assumption is the game has antidebugging mechanism. Just use VEH debugger which is available in Cheat Engine settings.
 
-**Note 2:** This is 100% human generated code not a vibe code cheat. But yes I do use Google AI Overviews and ChatGPT to help me explain stuff when i could not solve it.
+**Note 2:** This is 100% human generated code not a vibe code cheat. But yes I do use Google AI Overviews and ChatGPT to help me articulate Microsoft ambiguous wording into a human explanation when i could not understand it.
 
 **Precondition**
 - don't use prayer beads to upgrade or else the cheat won't work (yeah me is still a noob. My RE isn't that good. I'm practicing.)
