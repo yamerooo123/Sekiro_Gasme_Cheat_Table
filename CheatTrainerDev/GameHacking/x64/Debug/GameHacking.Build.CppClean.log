@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\supra\source\repos\gamehacking\gamehacking\x64\debug\vc143.pdb
 c:\users\supra\source\repos\gamehacking\gamehacking\x64\debug\vc143.idb
 c:\users\supra\source\repos\gamehacking\gamehacking\x64\debug\main.obj
@@ -19,3 +20,19 @@ c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking
 c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.read.1.tlog
 c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.secondary.1.tlog
 c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.write.1.tlog
+=======
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\vc143.pdb
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\vc143.idb
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\main.obj
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\x64\debug\gamehacking.exe
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\x64\debug\gamehacking.pdb
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.ilk
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\cl.command.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\cl.items.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\cl.read.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\cl.write.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.command.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.read.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.secondary.1.tlog
+c:\users\supra\source\repos\sekiro_gasme_cheat_table\cheattrainerdev\gamehacking\x64\debug\gamehacking.tlog\link.write.1.tlog
+>>>>>>> def8685 (find game base memory function done)
