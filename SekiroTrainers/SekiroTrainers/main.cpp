@@ -1,4 +1,3 @@
-// 0xsup
 #include <windows.h>
 #include <tlhelp32.h>
 #include <tchar.h>
@@ -15,6 +14,9 @@ uintptr_t FindDMAAddy(HANDLE hProc, uintptr_t ptr, std::vector<unsigned int> off
 int main() {
 
     DWORD processId{};
+
+    int newAmmo = 999;
+    bool CheatActivation = false;
 
     // snapshot processes
     HANDLE hProcessSnap = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
@@ -97,9 +99,31 @@ int main() {
         }
 
         else {
-            
+
             cout << "[+] Ammo offset address: " << hex << ammoCheat << "\n";
-        
+
+            // if press 1 = keep writing ammo addr
+            // if press 0 = change flag and stop writing ammo addr
+            while (true) {
+
+                if (GetAsyncKeyState(0x31) & 1) {
+
+                    CheatActivation = true;
+
+                }
+                if (GetAsyncKeyState('0') & 1) {
+
+                    CheatActivation = false;
+
+                }
+                if (CheatActivation) {
+
+                    WriteProcessMemory(hSekiro, reinterpret_cast<LPVOID>(ammoCheat), &newAmmo, sizeof(newAmmo), NULL);
+
+                }
+
+            }
+
         }
 
     }
